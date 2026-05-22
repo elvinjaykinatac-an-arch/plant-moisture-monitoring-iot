@@ -1,9 +1,9 @@
 <?php
 
 $conn = new mysqli(
-    "mysql.railway.internal",
+    "kodama.proxy.rlwy.net",
     "root",
-    "qkhOTtUHBwklFgEjDSIvoEHZCzVVqmxd",
+    "giaGSndvDhVlLlLwYXfSrHkeoCmcjSbF",
     "railway",
     3306
 );
